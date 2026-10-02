@@ -22,3 +22,5 @@ On Wayland you may first need: `xhost +SI:localuser:root`
 
 ## Disclaimer
 For educational use. Only capture traffic on networks you own or have permission to monitor.
+
+Tested on Rocky Linux 10.
