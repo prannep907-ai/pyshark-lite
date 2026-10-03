@@ -1,3 +1,4 @@
+# Copyright (c) 2026 Pranjeyy - MIT License
 #!/usr/bin/env python3
 """
 PyShark Lite - a small Wireshark-style packet analyzer built with Scapy + Tkinter.
